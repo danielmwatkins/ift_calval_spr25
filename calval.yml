@@ -1,0 +1,15 @@
+name: calval
+channels:
+- conda-forge
+dependencies:
+- cartopy=0.22.0
+- jupyter
+- netcdf4=1.6.5
+- numpy=1.26.4
+- pandas=2.2.2
+- proplot=0.9.7
+- pyproj
+- python=3.9.13
+- rasterio
+- scipy
+- xarray
